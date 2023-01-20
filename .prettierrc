@@ -1,0 +1,7 @@
+{
+  "bracketSpacing": true,
+  "semi": true,
+  "endOfLine": "crlf",
+  "printWidth": 140,
+  "trailingComma": "es5"
+}
